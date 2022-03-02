@@ -1,5 +1,9 @@
 # BEAAMO-application
 
+This repo aggregate material to BEAAMO application, attending to:
+
+*if you have any projects (e.g., tools you have built or relevant writing), you can optionally submit them as part of your application. We accept links to websites, github repos, PDFs, or any relevant links that you wish for us to review as part of your application.*
+
 ## Repos
 
  - https://github.com/ygorcanalli/FairnessComparsion
