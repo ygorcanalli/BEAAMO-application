@@ -1,10 +1,10 @@
 # BEAAMO-application
 
-## Relevant Repos
+## Repos
 
-https://github.com/ygorcanalli/FairnessComparsion
-https://github.com/ygorcanalli/NoisyLabelTK
-https://github.com/ygorcanalli/FairnessPlayground
+ - https://github.com/ygorcanalli/FairnessComparsion
+ - https://github.com/ygorcanalli/NoisyLabelTK
+ - https://github.com/ygorcanalli/FairnessPlayground
 
 ## DSc qualifying exam
 
