@@ -8,7 +8,7 @@
 
 ## DSc qualifying exam
 
-- [Qualifying exam](As%20máquinas%20herdarão%20nosso%20preconceito.pdf)
+- [Qualifying exam](Qualificação%20DSc%20Ygor%20Canalli.pdf)
 
 ## DSc Seminaries
 
@@ -17,5 +17,7 @@
 - [09-01-2021 Seminary](Seminario_01_09_2021.pdf)
 - [09-15-2021 Seminary](Seminario_15_09_2021.pdf)
 - [01-26-2022 Seminary](Seminario_26_01_2022.pdf)
-- 
+
 ## Science Communication 
+
+- [Talk at students movement event](As%20máquinas%20herdarão%20nosso%20preconceito.pdf)
